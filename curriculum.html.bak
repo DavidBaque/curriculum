@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>Curriculum></title>
+        <style>
+		    #foto{
+                margin: 5px;			
+			    border: solid 4px #cccccc
+				
+			}
+		
+		    #Principal{
+			    border: solid lpx;
+				padding: 10px;
+				width: 80%;
+				margin: 0 auto;
+				background: #bce8d1
+			}
+			
+		    legend{
+			    border: solid lpx #0000c5;
+				padding: 5px;
+				font-weight: bold;
+				border-radius: 20px;
+				background: #a6daea
+			}
+		
+		body{
+		    background:url(fondo.jpg);
+			background-size: 100%;
+			background-attachment: fixed
+		}
+		
+		
+		</style>
+    </head>
+    <body>
+        <div id="Principal">
+		    <img src="david.jpg" align="left" width="130" id="foto"/>
+			<h2>David André Baque Calle</h2>
+		    <p>Mapasingue Este Coop. La Esperanza Mz. 245 Sol #1</p>
+			<P>dabaque@espol.edu.ec
+			<p>Telefono: 0960275481</P>
+			<fieldset>
+			    <legend>Datos Generales</legend>
+				    <ul>
+					    <li>Fecha de Nacimiento: 22-05-2003</li>
+						<li>Cedula: 093149620-2 </li>
+						<li>Nacionalidad: Ecuatoriana</li>
+						<li>Estado Civil: Soltero</li>
+					</ul>		
+			</fieldset>
+			<br/>
+			<fieldset>
+			    <legend>Formacion Academica</legend>
+			        <ul>
+					    <li>Estudios Primarios: Unidad Educativa Canadiense</li>
+						<li>Estudios Secundarios: Unidad Educativa Cardenal Bernardino Echeverría Ruiz</li>
+					</ul>
+			</fieldset>
+            <br/>
+
+            <fieldset>
+                <legend>Experiencia Laboral</legend>
+                <ul>
+				    <li>FARMAGRO S.A.-Pasante: Servicios en Contabilidad</li>		  
+				</ul>	
+		</div>
+             <fieldset>
+                <legend>Experiencia Laboral</legend>
+                <ul>
+				    <li>FARMAGRO S.A.-Pasante: Servicios en Contabilidad</li>		  
+				</ul>	
+
+
+
+
+    </body>
+
+
+</html>
